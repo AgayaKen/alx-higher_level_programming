@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Set the Python file name in the environment variable
+export PYFILE="path/to/your_python_script.py"
+
+# Execute the Python script
+python "$PYFILE"
+
